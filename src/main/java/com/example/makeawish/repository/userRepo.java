@@ -4,7 +4,3 @@ public class userRepo {
 }
 
 
-
-//Dette er ikhras kommentar
-
-//Hej smukke munira
