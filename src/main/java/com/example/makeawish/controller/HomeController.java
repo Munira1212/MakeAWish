@@ -12,6 +12,7 @@ public class HomeController {
     @GetMapping("/")
     public String index(){
 
+        //min kommentar
         return "home/frontPage";
     }
 
