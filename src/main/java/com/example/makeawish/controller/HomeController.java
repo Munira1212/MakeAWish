@@ -12,6 +12,7 @@ public class HomeController {
     @GetMapping("/")
     public String index(){
 
+        System.out.println("yo");
         return "home/frontPage";
     }
 
