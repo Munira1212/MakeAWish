@@ -1,4 +1,4 @@
 package com.example.makeawish.repository;
 
-public class userRepo {
+public class UserRepo {
 }
